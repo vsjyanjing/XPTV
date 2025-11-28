@@ -8,7 +8,7 @@ const UA =
 let appConfig = {
   ver: 1,
   title: 'KanAV',
-  site: 'https://kanav.info',
+  site: 'https://kanav.ad',
   tabs: [
     {
       name: '中文字幕',
